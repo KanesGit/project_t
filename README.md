@@ -49,7 +49,7 @@ dino-runner/
 3. Update `SERVER_URL` in `main.gd` to point to your backend
 
 ```gdscript
-const SERVER_URL := "https://your-server.com"
+const SERVER_URL := "https://www.kanes.art"
 ```
 
 4. Run with **F5** in the editor, or export to HTML5 via **Project → Export**
@@ -102,7 +102,7 @@ The backend leaderboard API lives in [dino-runner-server](https://github.com/Kan
 3. 修改 `main.gd` 中的 `SERVER_URL`：
 
 ```gdscript
-const SERVER_URL := "https://your-server.com"
+const SERVER_URL := "https://www.kanes.art"
 ```
 
 4. 按 **F5** 运行，或通过 **项目 → 导出** 导出 HTML5 版本
