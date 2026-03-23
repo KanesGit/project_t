@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://dw2wk8cbob76x"]
+
+[ext_resource type="Script" uid="uid://b5jx8a41iikt4" path="res://main.gd" id="1_main"]
+
+[node name="Main" type="Node2D" unique_id=391782117]
+script = ExtResource("1_main")
+metadata/_edit_vertical_guides_ = [12.0]

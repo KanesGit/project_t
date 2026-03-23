@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <rect width="128" height="128" rx="16" fill="#353535"/>
+  <!-- dino body -->
+  <rect x="36" y="48" width="44" height="48" rx="4" fill="#f0f0f0"/>
+  <!-- dino head -->
+  <rect x="62" y="28" width="32" height="28" rx="4" fill="#f0f0f0"/>
+  <!-- eye -->
+  <rect x="84" y="34" width="6" height="6" rx="2" fill="#353535"/>
+  <!-- legs -->
+  <rect x="42" y="90" width="12" height="22" rx="3" fill="#f0f0f0"/>
+  <rect x="62" y="90" width="12" height="16" rx="3" fill="#f0f0f0"/>
+</svg>
